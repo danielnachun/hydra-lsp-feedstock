@@ -27,7 +27,7 @@ requirements:
   run:
     - importlib-metadata >=6.8.0,<7.0.0
     - intervaltree
-    - lsprotocol
+    - lsprotocol <2025
     - pygls <2
     - pygtrie
     - python >=${{ python_min }}
